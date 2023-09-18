@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Blog App</h1>
+
 </div>
 
 <a name="readme-top"></a>
@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Blog App <a name="about-project"></a>
+# 📖 React-Rails-App <a name="about-project"></a>
 
 > This is a hello rails react app that displays a greeting message randomly
 
