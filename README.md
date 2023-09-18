@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/musangamfure/Blog-app.git
+  git clone https://github.com/saluumaa/hello-rails-react.git
 ```
 
 ### Usage
