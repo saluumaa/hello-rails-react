@@ -1,7 +1,3 @@
-<div align="center">
-
-</div>
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -9,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Blog App ](#-blog-app-)
+- [📖 Hello-Rails-React ](#-hello-rails-react-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
